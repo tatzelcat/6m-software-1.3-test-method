@@ -4,6 +4,7 @@
   "description": "",
   "main": "sample.js",
   "scripts": {
+    "example":"echo hello",
     "test": "jest"
   },
   "author": "",
